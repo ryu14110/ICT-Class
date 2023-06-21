@@ -12,6 +12,7 @@
     padding: 50px;
     display: flex;
     align-items: center;
+    justify-content:center;
   }
     
   .target-box {
@@ -34,8 +35,8 @@
   
   .target-box:hover {
     background-color: green;
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 600px;
   }
   
   @keyframes slide-left-to-right {
